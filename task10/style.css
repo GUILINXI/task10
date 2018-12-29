@@ -137,6 +137,7 @@ main > .navbar {
 }
 .circleline1:hover {
     border-top: 5px solid #ff7f02;
+    color: #ff7f02;
 }
 .circleline1:hover .circle {
     background: #ff7f02;
